@@ -24,9 +24,9 @@ const apiLibraries: ZodResource[] = [
   },
   {
     name: "oRPC",
-    url: "https://orpc.unnoq.com/",
+    url: "https://orpc.dev/",
     description: "Typesafe APIs Made Simple",
-    slug: "unnoq/orpc",
+    slug: "middleapi/orpc",
   },
   {
     name: "Express Zod API",
